@@ -13,5 +13,5 @@ for i in range(18):
 
 age=9
 
-while age >3:
+while age <3:
     print("hello")
